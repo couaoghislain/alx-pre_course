@@ -1,3 +1,4 @@
-root@6ee6edc7259e:/# cd home/alx-pre_course/0x01-git                                                                                                                        
-root@6ee6edc7259e:/home/alx-pre_course/0x01-git# touch up_to_date                                                                                                           
-root@6ee6edc7259e:/home/alx-pre_course/0x01-git# vim up_to_date                                                                                                             
+root@6ee6edc7259e:/# cd home/alx-pre_course/0x01-git
+root@6ee6edc7259e:/home/alx-pre_course/0x01-git# touch up_to_date
+root@6ee6edc7259e:/home/alx-pre_course/0x01-git# vim up_to_date
+root@6ee6edc7259e:/home/alx-pre_course/0x01-git# git pull
